@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on robotino wiht ros in docker
+- 🌱 I’m currently learning Java, Python, C, C++
+- 💬 Ask me about anything
+- 📫 How to reach me: mambaa15@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Pandas have two thumbs
+
 <!--
 **mambaa15/mambaa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
