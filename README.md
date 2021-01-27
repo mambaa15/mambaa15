@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on robotino wiht ros in docker
-- 🌱 I’m currently learning Java, Python, C, C++
+- 🌱 I’m currently learning Java
 - 💬 Ask me about anything
-- 📫 How to reach me: mambaa15@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Pandas have two thumbs
 
